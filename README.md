@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @forson24
 - 👀 I’m interested in General programming
 - 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on machine learning 0rojects
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me agyekumforson@outlook.com, agyekumforsonofficial@gmail.com
 
 <!---
